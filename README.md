@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm King Guy
+# 👋 Hello there! I'm Kushal Meghani
 
 Welcome to my profile! I'm a passionate student and self-taught developer focused on backend, systems programming, and low-level experimentation.
 
