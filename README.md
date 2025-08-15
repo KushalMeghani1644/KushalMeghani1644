@@ -16,8 +16,12 @@ Welcome to my profile! I'm a passionate student and self-taught developer focuse
 ## 🧰 Rusty-Suite
 
 I’m currently building and maintaining the **Rusty-Suite** — a collection of FOSS Rust projects, focused on both practical tools and low-level system utilities:
+
 WEBSITE:
 - [Rusty-Suite](https://kushalmeghani1644.github.io/Rusty-Suite/)
+
+PRODUCTS:
+
 - [`RustyTodos`](https://github.com/KushalMeghani1644/RustyTodos) — A simple and powerful TUI-based todo app (also being ported to Tauri GUI)
 - [`RustyBoot`](https://github.com/KushalMeghani1644/RustyBoot) — A custom Rust-based bootloader
 - [`ls-rs`](https://github.com/KushalMeghani1644/ls-rs) — A clean `ls` clone in Rust
