@@ -38,6 +38,5 @@ I’m currently building and maintaining the **Rusty-Suite** — a collection of
 - GitHub: [github.com/KushalMeghani1644](https://github.com/KushalMeghani1644)
 - GitLab: [gitlab.com/KushalMeghani1644](https://gitlab.com/KushalMeghani1644)
 - website: [Rusty-Suite](kushalmeghani1644.github.io/Rusty-Suite)
-- Email: [Kushal Meghani](kushalmeghani708@gmail.com)
 
 Let’s build cool stuff together!
