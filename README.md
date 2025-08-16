@@ -18,7 +18,7 @@ Welcome to my profile! I'm a passionate student and self-taught developer focuse
 I’m currently building and maintaining the **Rusty-Suite** — a collection of FOSS Rust projects, focused on both practical tools and low-level system utilities:
 
 WEBSITE:
-- [Rusty-Suite](rusty-suite.tech)
+- rusty-suite.tech
 
 PRODUCTS:
 
