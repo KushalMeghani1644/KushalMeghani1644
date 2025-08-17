@@ -19,10 +19,10 @@ I’m building and maintaining **Rusty-Suite**, a collection of open-source Rust
 🌐 **Website:** [rusty-suite.tech](https://rusty-suite.tech)
 
 ### 🔹 Projects
-- **RustyTodos** — TUI-based todo app, currently being ported to a Tauri GUI ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white)
-- **RustyBoot** — Custom Rust-based bootloader ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white)
-- **ls-rs** — Clean `ls` clone in Rust ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white)
-- **Rusty-Checker** — RowHammer vulnerability testing tool ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust&logoColor=white)
+- **RustyTodos** — TUI-based todo app, currently being ported to a Tauri GUI 
+- **RustyBoot** — Custom Rust-based bootloader 
+- **ls-rs** — Clean `ls` clone in Rust 
+- **Rusty-Checker** — RowHammer vulnerability testing tool 
 
 💖 *All projects are built with ❤️ in Rust.*
 
