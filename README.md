@@ -119,7 +119,7 @@ A collection of **open-source Rust projects** combining practical tools and low-
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KushalMeghani1644&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=KushalMeghani1644&theme=onedark&no-frame=true&row=1&column=7)
 
 </div>
 
