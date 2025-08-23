@@ -115,26 +115,6 @@ A collection of **open-source Rust projects** combining practical tools and low-
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=KushalMeghani1644&theme=onedark&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/KushalMeghani1644/KushalMeghani1644/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
