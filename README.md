@@ -54,7 +54,7 @@ Currently diving deep into OS development and memory management while maintainin
 **[🚀 RustyBoot](https://github.com/KushalMeghani1644/RustyBoot)** ![Status](https://img.shields.io/badge/Status-Development-yellow) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/RustyBoot?style=flat-square)](https://github.com/KushalMeghani1644/RustyBoot)
 > An experimental UEFI bootloader written entirely in Rust, exploring safe systems programming at the lowest levels. Part of my journey into OS development and understanding how modern computers boot.
 
-**[📁 ls-rs](https://github.com/KushalMeghani1644/ls-rs)** ![Status](https://img.shields.io/badge/Status-Complete-blue) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/ls-rs?style=flat-square)](https://github.com/KushalMeghani1644/ls-rs)
+**[📁 ls-rs](https://github.com/KushalMeghani1644/ls-rs)** ![Status](https://img.shields.io/badge/Status-Active-brightgreen) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/ls-rs?style=flat-square)](https://github.com/KushalMeghani1644/ls-rs)
 > A modern, memory-safe reimplementation of the classic `ls` command with improved performance and better error handling. Demonstrates how Rust can enhance even the most fundamental Unix utilities.
 
 **[🔍 Rusty-Checker](https://github.com/KushalMeghani1644/Rusty-Checker)** ![Status](https://img.shields.io/badge/Status-Testing-orange) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/Rusty-Checker?style=flat-square)](https://github.com/KushalMeghani1644/Rusty-Checker)
