@@ -48,6 +48,9 @@ Currently diving deep into OS development and memory management while maintainin
 
 ### 🚀 Featured Projects
 
+**[Oxide](https://github.com/KushalMeghani1644/Oxide)**![Status](https://img.shields.io/badge/Status-Development-yellow) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/Oxide?style=flat-square)](https://github.com/KushalMeghani1644/Oxide)
+> A programming language, bootstrapped with Rust, which aims to be less safer/stricter than Rust but more safer/stricter than C.
+
 **[🦀 RustyTodos](https://github.com/KushalMeghani1644/RustyTodos)** ![Status](https://img.shields.io/badge/Status-Active-brightgreen) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/RustyTodos?style=flat-square)](https://github.com/KushalMeghani1644/RustyTodos)
 > A productivity-focused todo application built with Rust's TUI ecosystem, currently evolving into a full Tauri-based desktop application. Features efficient task management with vim-like keybindings and a clean, distraction-free interface.
 
