@@ -1,85 +1,89 @@
-# Hello, I'm Kushal Meghani
+# Greetings, Traveler
+
+Out of all the places on the internet, you’ve found my GitHub! Feel free to explore my projects, discover who I am, what I do, and why I do it.
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=Backend+Developer;Systems+Programmer;Rust+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=450&lines=Backend+Developer;Systems+Programmer;Rust+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KushalMeghani1644&color=orange&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/KushalMeghani1644?label=Followers&style=social)](https://github.com/KushalMeghani1644)
+[![GitHub followers](https://img.shields.io/badge/-Followers-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KushalMeghani1644)
 
 </div>
 
-I'm a passionate systems programmer who believes in building tools that matter. My journey with Rust has led me to explore everything from low-level bootloaders to modern TUI applications. I'm particularly fascinated by the intersection of performance, safety, and developer experience that Rust enables.
+---
 
-Currently diving deep into OS development and memory management while maintaining a collection of practical tools that solve real-world problems. I contribute to open source because I believe great software should be accessible to everyone.
+## About Me
+
+I am a **systems programmer** dedicated to building impactful tools. My work with Rust spans **low-level bootloaders**, **TUI applications**, and **security research tools**, with a strong focus on **performance, safety, and developer experience**.
+
+I actively contribute to **open source** because I believe high-quality software should be accessible to everyone. Currently, I am exploring **OS development, memory management, and hardware security**, while maintaining the **Rusty-Suite**, a collection of practical Rust tools.
 
 ---
 
-## Tech Stack & Expertise
+## Tech Stack & Tools
 
 <div align="center">
 
-### Primary Languages
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Programming Languages:**  
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Development Focus
-![Systems Programming](https://img.shields.io/badge/-Systems%20Programming-FF6B6B?style=for-the-badge)
-![Backend Development](https://img.shields.io/badge/-Backend%20Development-4ECDC4?style=for-the-badge)
-![OS Development](https://img.shields.io/badge/-OS%20Development-45B7D1?style=for-the-badge)
+**Development Focus:**  
+![Systems Programming](https://img.shields.io/badge/-Systems%20Programming-FF6B6B?style=for-the-badge)  
+![Backend Development](https://img.shields.io/badge/-Backend%20Development-4ECDC4?style=for-the-badge)  
+![OS Development](https://img.shields.io/badge/-OS%20Development-45B7D1?style=for-the-badge)  
 ![Security Research](https://img.shields.io/badge/-Security%20Research-96CEB4?style=for-the-badge)
+
+**Tools & Platforms:**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Podman](https://img.shields.io/badge/-Podman-892E2D?style=for-the-badge&logo=podman&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
 </div>
 
 ---
 
-## The Rusty-Suite Collection
+## Rusty-Suite — My Rust Tools Collection
 
 <div align="center">
 
-[![Rusty-Suite](https://img.shields.io/badge/-Rusty--Suite-orange?style=for-the-badge)](https://rusty-suite.tech)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A//rusty-suite.tech&style=for-the-badge)](https://rusty-suite.tech)
-
-*A curated collection of Rust tools spanning from system utilities to security research*
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Frusty-suite.tech&style=for-the-badge)](https://rusty-suite.tech)  
+*A curated collection of Rust tools spanning system utilities, productivity apps, and security research.*
 
 </div>
 
 ### Featured Projects
 
-**[Oxide](https://github.com/KushalMeghani1644/Oxide)**![Status](https://img.shields.io/badge/Status-Development-yellow) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/Oxide?style=flat-square)](https://github.com/KushalMeghani1644/Oxide)
-> A programming language, bootstrapped with Rust, which aims to be less safer/stricter than Rust but more safer/stricter than C.
+| Project | Description | Status | Stars |
+|--------|-------------|--------|-------|
+| [Oxide](https://github.com/KushalMeghani1644/Oxide) | Bootstrapped programming language between Rust & C | Development | ![Stars](https://img.shields.io/github/stars/KushalMeghani1644/Oxide?style=flat-square) |
+| [RustyTodos](https://github.com/KushalMeghani1644/RustyTodos) | TUI & upcoming Tauri todo app with vim-like keybindings | Active | ![Stars](https://img.shields.io/github/stars/KushalMeghani1644/RustyTodos?style=flat-square) |
+| [RustyBoot](https://github.com/KushalMeghani1644/RustyBoot) | Experimental UEFI bootloader in Rust | Development | ![Stars](https://img.shields.io/github/stars/KushalMeghani1644/RustyBoot?style=flat-square) |
+| [ls-rs](https://github.com/KushalMeghani1644/ls-rs) | Memory-safe modern Rust clone of `ls` | Active | ![Stars](https://img.shields.io/github/stars/KushalMeghani1644/ls-rs?style=flat-square) |
+| [Rusty-Checker](https://github.com/KushalMeghani1644/Rusty-Checker) | RowHammer vulnerability detection tool | Testing | ![Stars](https://img.shields.io/github/stars/KushalMeghani1644/Rusty-Checker?style=flat-square) |
 
-**[RustyTodos](https://github.com/KushalMeghani1644/RustyTodos)** ![Status](https://img.shields.io/badge/Status-Active-brightgreen) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/RustyTodos?style=flat-square)](https://github.com/KushalMeghani1644/RustyTodos)
-> A productivity-focused todo application built with Rust's TUI ecosystem, currently evolving into a full Tauri-based desktop application. Features efficient task management with vim-like keybindings and a clean, distraction-free interface.
-
-**[RustyBoot](https://github.com/KushalMeghani1644/RustyBoot)** ![Status](https://img.shields.io/badge/Status-Development-yellow) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/RustyBoot?style=flat-square)](https://github.com/KushalMeghani1644/RustyBoot)
-> An experimental UEFI bootloader written entirely in Rust, exploring safe systems programming at the lowest levels. Part of my journey into OS development and understanding how modern computers boot.
-
-**[ls-rs](https://github.com/KushalMeghani1644/ls-rs)** ![Status](https://img.shields.io/badge/Status-Active-brightgreen) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/ls-rs?style=flat-square)](https://github.com/KushalMeghani1644/ls-rs)
-> A modern, memory-safe reimplementation of the classic `ls` command with improved performance and better error handling. Demonstrates how Rust can enhance even the most fundamental Unix utilities.
-
-**[Rusty-Checker](https://github.com/KushalMeghani1644/Rusty-Checker)** ![Status](https://img.shields.io/badge/Status-Testing-orange) [![Stars](https://img.shields.io/github/stars/KushalMeghani1644/Rusty-Checker?style=flat-square)](https://github.com/KushalMeghani1644/Rusty-Checker)
-> A security research tool for detecting RowHammer vulnerabilities in DRAM. Helps system administrators and security researchers assess memory corruption risks in their hardware.
+**All crates are available on [crates.io](https://crates.io/users/KushalMeghani1644)**.
 
 ---
 
-## Current Learning Focus
+## Current Focus
 
-**Advanced Systems Concepts**: Diving deeper into memory management, interrupt handling, and kernel development while exploring how Rust's ownership model applies to systems programming.
-
-**Performance Engineering**: Learning advanced optimization techniques and understanding how to write Rust code that competes with hand-tuned C/C++ in performance-critical scenarios.
-
-**Security Research**: Exploring hardware-level vulnerabilities and developing tools to help the security community identify and mitigate emerging threats.
+- **Advanced Systems Programming:** Memory management, interrupts, kernel dev in Rust  
+- **Performance Engineering:** Writing Rust code competitive with hand-tuned C/C++  
+- **Security Research:** Hardware-level vulnerabilities, RowHammer mitigation, secure systems tools
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushalMeghani1644&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushalMeghani1644&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalMeghani1644&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
@@ -92,23 +96,20 @@ Currently diving deep into OS development and memory management while maintainin
 
 ---
 
-## Let's Connect
+## Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KushalMeghani1644)
-[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KushalMeghani1644)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rusty-suite.tech)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KushalMeghani1644)  
+[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KushalMeghani1644)  
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rusty-suite.tech)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushalmeghani108@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+**Building the future, one safe system at a time**  
 
-**"Building the future, one safe system at a time"** 🦀
+Open to collaborations in **Rust systems programming, OS development, and security research**.
 
-*Open to collaboration on systems programming projects, security research, and anything that pushes the boundaries of what's possible with Rust.*
-
-</div>
