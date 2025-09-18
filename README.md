@@ -1,7 +1,59 @@
 # Kushal Meghani
 
-Systems programmer and Rust enthusiast specializing in low-level development, operating systems, and hardware security. I build memory-safe tools and contribute to open-source projects, with current focus on UEFI bootloaders, memory management, and security research tools like RowHammer detection.
+**Systems programmer & Rust enthusiast** specializing in **low-level development, bare-metal programming, OS development, and hardware security**.  
+I build **memory-safe tools**, UEFI bootloaders, and security research utilities, contributing actively to open-source ecosystems.
 
-**Current Projects**: [RustyBoot](https://github.com/KushalMeghani1644/RustyBoot) (UEFI bootloader), [Oxide](https://github.com/KushalMeghani1644/Oxide) (systems language), [Rusty-Suite](https://rusty-suite.tech) (Rust toolchain)
+---
 
-📧 [kushalmeghani108@gmail.com](mailto:kushalmeghani108@gmail.com) | 🌐 [rusty-suite.tech](https://rusty-suite.tech)
+## About Me
+- Passionate about **Rust**, **systems programming**, and **hardware security research**.  
+- Skilled in **UEFI bootloaders**, **memory management**, **RowHammer detection**, and **bare-metal development**.  
+- Advocate for **memory safety**, **reliability**, and **low-level performance optimization**.  
+- Open-source contributor with a focus on **practical, real-world systems tools**.
+
+---
+
+## Current Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| **RustyBoot** | A **UEFI bootloader** written in Rust with advanced boot features. | [GitHub](https://github.com/KushalMeghani1644/RustyBoot) |
+| **Oxide** | Experimental **systems programming language** in Rust. | [GitHub](https://github.com/KushalMeghani1644/Oxide) |
+| **Rusty-Suite** | Collection of **Rust tools**: bootloader, OS utilities, memory security research tools. | [Website](https://rusty-suite.tech) |
+
+---
+
+## Skills
+- **Languages:** Rust (primary), C, C++  
+- **Low-level Expertise:** UEFI, BIOS, kernel modules, memory management  
+- **Tools & Platforms:** Git, Cargo, Linux (openSUSE Tumbleweed), QEMU, Virtualization  
+- **Security & Research:** RowHammer detection, hardware vulnerability analysis  
+
+---
+
+## Featured Work
+- **RustyBoot:** Memory-safe, high-performance UEFI bootloader.  
+- **Rusty-Checker:** RowHammer vulnerability detection tool (Rust).  
+- **ls-rs:** Fast, Rust-based replacement for `ls` command.  
+- Contributed to **RISCV open-source projects**: adding DCSR CSR, memory-related improvements.
+
+---
+
+## Open Source Contributions
+- Actively maintaining **Rusty-Suite** across GitHub, GitLab, and crates.io.  
+- Focused on **memory safety, system reliability, and bare-metal tooling**.  
+- Projects are **GPLv3 licensed** and widely accessible for collaboration.
+
+---
+
+## Contact Me
+- Email: [kushalmeghani108@gmail.com](mailto:kushalmeghani108@gmail.com)  
+- Website: [rusty-suite.tech](https://rusty-suite.tech)  
+- GitHub: [KushalMeghani1644](https://github.com/KushalMeghani1644)  
+- GitLab: [KushalMeghani1644](https://gitlab.com/KushalMeghani1644)
+- Dev: [KushalMeghani1644](https://dev.to/kushalmeghani1644)
+- Hashnode: [KushalMeghani](https://hashnode.com/@kushalmeghani)
+
+---
+
+> "I turn low-level complexity into reliable, safe, and efficient Rust solutions."  
+> — Kushal Meghani
