@@ -26,7 +26,8 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 - **Languages:** Rust (primary), C, C++  
 - **Low-level Expertise:** UEFI, BIOS, kernel modules, memory management  
 - **Tools & Platforms:** Git, Cargo, Linux (openSUSE Tumbleweed), QEMU, Virtualization  
-- **Security & Research:** RowHammer detection, hardware vulnerability analysis  
+- **Security & Research:** RowHammer detection, hardware vulnerability analysis
+- Contributed to **RISCV**, and **Tauri**
 
 ---
 
