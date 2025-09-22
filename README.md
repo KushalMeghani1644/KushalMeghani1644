@@ -34,7 +34,6 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 - **RustyBoot:** Memory-safe, high-performance UEFI bootloader.  
 - **Rusty-Checker:** RowHammer vulnerability detection tool (Rust).  
 - **ls-rs:** Fast, Rust-based replacement for `ls` command.  
-- Contributed to **RISCV open-source projects**: adding DCSR CSR, memory-related improvements.
 
 ---
 
