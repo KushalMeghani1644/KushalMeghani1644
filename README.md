@@ -25,9 +25,10 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Skills
 - **Languages:** Rust (primary), C, C++  
 - **Low-level Expertise:** UEFI, BIOS, kernel modules, memory management  
-- **Tools & Platforms:** Git, Cargo, Linux (openSUSE Tumbleweed), QEMU, Virtualization  
+- **Tools & Platforms:** Git, Cargo, Linux (Gentoo), QEMU, Virtualization  
 - **Security & Research:** RowHammer detection, hardware vulnerability analysis
 - Contributed to **RISCV**, and **Tauri**
+- **Gentoo Linux** user & OS tinkerer, compiled an OS from source.
 
 ---
 
