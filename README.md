@@ -27,7 +27,7 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 - **Low-level Expertise:** UEFI, BIOS, kernel modules, memory management  
 - **Tools & Platforms:** Git, Cargo, Linux (Gentoo), QEMU, Virtualization  
 - **Security & Research:** RowHammer detection, hardware vulnerability analysis
-- Contributed to **RISCV**, and **Tauri**
+- Contributed to **RISCV**, **Cortex-ar**, and **Tauri**
 - **Gentoo Linux** user & OS tinkerer, compiled an OS from source.
 
 ---
