@@ -31,6 +31,7 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 - **Security & Research:** RowHammer detection, hardware vulnerability analysis
 - Contributed to **RISCV**, **Cortex-ar**, and **Tauri**
 - **Gentoo Linux** user & OS tinkerer, compiled an OS from source.
+- Mastering **VIM** and **Neovim**
 
 ---
 
