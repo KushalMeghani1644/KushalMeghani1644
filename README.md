@@ -55,6 +55,7 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 - GitLab: [KushalMeghani1644](https://gitlab.com/KushalMeghani1644)
 - Dev: [KushalMeghani1644](https://dev.to/kushalmeghani1644)
 - Hashnode: [KushalMeghani](https://hashnode.com/@kushalmeghani)
+- LeetCode: [kushalMeghani1644](https://leetcode.com/u/KushalMeghani1644/)
 
 ---
 
