@@ -38,7 +38,7 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Featured Work
 - **RustyBoot:** Memory-safe, high-performance UEFI bootloader.  
 - **Rusty-Checker:** RowHammer vulnerability detection tool (Rust).  
-- **ls-rs:** Fast, Rust-based replacement for `ls` command.  
+- **RustyPiano:** A simple piano player in Rust. Learn a piano without owning one!
 
 ---
 
