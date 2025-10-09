@@ -29,7 +29,7 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 - **Low-level Expertise:** UEFI, BIOS, kernel modules, memory management  
 - **Tools & Platforms:** Git, Cargo, Linux (Gentoo), QEMU, Virtualization  
 - **Security & Research:** RowHammer detection, hardware vulnerability analysis
-- Contributed to **RISCV**, **Cortex-ar**, and **Tauri**
+- Contributed to [RISCV](https://github.com/rust-embedded/riscv), [Cortex-ar](https://github.com/rust-embedded/cortex-ar), and [Tauri](https://github.com/tauri-apps/tauri)
 - **Gentoo Linux** user & OS tinkerer, compiled an OS from source.
 - Mastering **VIM** and **Neovim**
 
