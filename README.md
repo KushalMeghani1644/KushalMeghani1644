@@ -25,7 +25,8 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ---
 
 ## Skills
-- **Languages:** Rust (primary), C, C++  
+- **Languages:** Rust (primary), C, C++
+- **Learning:** Zig
 - **Low-level Expertise:** UEFI, BIOS, kernel modules, memory management  
 - **Tools & Platforms:** Git, Cargo, Linux (Gentoo), QEMU, Virtualization  
 - **Security & Research:** RowHammer detection, hardware vulnerability analysis
