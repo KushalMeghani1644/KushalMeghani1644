@@ -20,7 +20,7 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 | **RustyBoot** | A **UEFI bootloader** written in Rust with advanced boot features. | [GitHub](https://github.com/KushalMeghani1644/RustyBoot) |
 | **NPU-rs** | A NPU driver (simulation) for 20TOPS NPU IN RISC boards | [Github](https://github.com/KushalMeghani1644/NPU-rs) |
 | **RustyBoot-RISCV** | A **minimalist RISC-V bootloader** written in Rust, with UART support and ELF kernel loading. | [GitHub](https://github.com/KushalMeghani1644/RustyBoot-RISCV) |
-| **Oxide** | Experimental **systems programming language** in Rust. | [GitHub](https://github.com/KushalMeghani1644/Oxide) |
+| **RustBerry-PI** | A raspberry pi inspired virtual hardware board in Rust. | [GitHub](https://github.com/KushalMeghani1644/RustBerry-PI) |
 | **Rusty-Suite** | Collection of **Rust tools**: bootloader, OS utilities, memory security research tools. | [Website](https://rusty-suite.tech) |
 
 ---
