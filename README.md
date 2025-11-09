@@ -28,6 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#4](https://github.com/KushalMeghani1644/KushalMeghani1644/issues/4) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
+2. 🗣 Commented on [#4](https://github.com/KushalMeghani1644/KushalMeghani1644/issues/4#issuecomment-3507497441) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
+3. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/KushalMeghani1644/pull/3#issuecomment-3507493055) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
+4. 💪 Opened PR [#368](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+5. 🗣 Commented on [#365](https://github.com/rust-embedded/riscv/issues/365#issuecomment-3498213170) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+6. 🗣 Commented on [#366](https://github.com/rust-embedded/riscv/pull/366#issuecomment-3498203443) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+7. 🗣 Commented on [#366](https://github.com/rust-embedded/riscv/pull/366#issuecomment-3498151089) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+8. 🗣 Commented on [#366](https://github.com/rust-embedded/riscv/pull/366#issuecomment-3497784305) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+9. 💪 Opened PR [#14426](undefined) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+10. 🗣 Commented on [#366](https://github.com/rust-embedded/riscv/pull/366#issuecomment-3497292038) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
 <!--END_SECTION:activity-->
 
 ## Skills
