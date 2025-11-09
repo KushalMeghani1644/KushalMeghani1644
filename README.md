@@ -25,6 +25,11 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 
 ---
 
+## Current Activities
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Skills
 - **Languages:** Rust (primary), C, C++
 - **Learning:** Zig
