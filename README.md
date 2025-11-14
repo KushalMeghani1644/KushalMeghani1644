@@ -28,16 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#370](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-2. 🗣 Commented on [#45](https://github.com/riscv-rust/e310x/pull/45#issuecomment-3521756176) in [riscv-rust/e310x](https://github.com/riscv-rust/e310x)
-3. 💪 Opened PR [#45](undefined) in [riscv-rust/e310x](https://github.com/riscv-rust/e310x)
-4. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3520918994) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-5. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3507884524) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-6. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3507569123) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-7. 🔒 Closed issue [#4](https://github.com/KushalMeghani1644/KushalMeghani1644/issues/4) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
-8. 🗣 Commented on [#4](https://github.com/KushalMeghani1644/KushalMeghani1644/issues/4#issuecomment-3507497441) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
-9. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/KushalMeghani1644/pull/3#issuecomment-3507493055) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
-10. 💪 Opened PR [#368](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+1. 🗣 Commented on [#370](https://github.com/rust-embedded/riscv/pull/370#issuecomment-3531371506) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+2. 💪 Opened PR [#370](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+3. 🗣 Commented on [#45](https://github.com/riscv-rust/e310x/pull/45#issuecomment-3521756176) in [riscv-rust/e310x](https://github.com/riscv-rust/e310x)
+4. 💪 Opened PR [#45](undefined) in [riscv-rust/e310x](https://github.com/riscv-rust/e310x)
+5. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3520918994) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+6. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3507884524) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+7. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3507569123) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+8. 🔒 Closed issue [#4](https://github.com/KushalMeghani1644/KushalMeghani1644/issues/4) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
+9. 🗣 Commented on [#4](https://github.com/KushalMeghani1644/KushalMeghani1644/issues/4#issuecomment-3507497441) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
+10. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/KushalMeghani1644/pull/3#issuecomment-3507493055) in [KushalMeghani1644/KushalMeghani1644](https://github.com/KushalMeghani1644/KushalMeghani1644)
 <!--END_SECTION:activity-->
 
 ## Skills
