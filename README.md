@@ -28,16 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#372](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-2. 🗣 Commented on [#370](https://github.com/rust-embedded/riscv/pull/370#issuecomment-3531856472) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-3. 🗣 Commented on [#370](https://github.com/rust-embedded/riscv/pull/370#issuecomment-3531635382) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-4. 🗣 Commented on [#370](https://github.com/rust-embedded/riscv/pull/370#issuecomment-3531371506) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-5. 💪 Opened PR [#370](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-6. 🗣 Commented on [#45](https://github.com/riscv-rust/e310x/pull/45#issuecomment-3521756176) in [riscv-rust/e310x](https://github.com/riscv-rust/e310x)
-7. 💪 Opened PR [#45](undefined) in [riscv-rust/e310x](https://github.com/riscv-rust/e310x)
-8. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3520918994) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-9. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3507884524) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-10. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3507569123) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+1. 🗣 Commented on [#372](https://github.com/rust-embedded/riscv/pull/372#issuecomment-3532475420) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+2. 💪 Opened PR [#372](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+3. 🗣 Commented on [#370](https://github.com/rust-embedded/riscv/pull/370#issuecomment-3531856472) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+4. 🗣 Commented on [#370](https://github.com/rust-embedded/riscv/pull/370#issuecomment-3531635382) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+5. 🗣 Commented on [#370](https://github.com/rust-embedded/riscv/pull/370#issuecomment-3531371506) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+6. 💪 Opened PR [#370](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+7. 🗣 Commented on [#45](https://github.com/riscv-rust/e310x/pull/45#issuecomment-3521756176) in [riscv-rust/e310x](https://github.com/riscv-rust/e310x)
+8. 💪 Opened PR [#45](undefined) in [riscv-rust/e310x](https://github.com/riscv-rust/e310x)
+9. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3520918994) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+10. 🗣 Commented on [#368](https://github.com/rust-embedded/riscv/pull/368#issuecomment-3507884524) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
 <!--END_SECTION:activity-->
 
 ## Skills
