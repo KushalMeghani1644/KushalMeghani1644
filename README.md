@@ -28,16 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3641188065) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3636729660) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-3. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3636276395) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-4. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3632270356) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-5. ❌ Merged PR [#378](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-6. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3627400483) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-7. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3627046198) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-8. 💪 Opened PR [#14628](undefined) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-9. 🗣 Commented on [#372](https://github.com/rust-embedded/riscv/pull/372#issuecomment-3616493309) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-10. 💪 Opened PR [#378](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+1. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3645877327) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+2. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3645792122) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+3. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3641188065) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+4. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3636729660) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+5. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3636276395) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+6. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3632270356) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+7. ❌ Merged PR [#378](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+8. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3627400483) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+9. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3627046198) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+10. 💪 Opened PR [#14628](undefined) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 <!--END_SECTION:activity-->
 
 ## Skills
