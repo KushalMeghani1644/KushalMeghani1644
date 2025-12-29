@@ -28,16 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com/esp-rs/esp-generate/pull/283#issuecomment-3694112379) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-2. 💪 Opened PR [#283](undefined) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-3. 🗣 Commented on [#382](https://github.com/rust-embedded/riscv/pull/382#issuecomment-3693932152) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-4. ❌ Merged PR [#14628](undefined) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-5. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3691371666) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-6. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3691191420) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-7. 🗣 Commented on [#1](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/1#issuecomment-3682090704) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
-8. 💪 Opened PR [#382](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-9. ❗ Opened issue [#381](https://github.com/rust-embedded/riscv/issues/381) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-10. 🗣 Commented on [#311](https://github.com/rust-embedded/riscv/issues/311#issuecomment-3678484643) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+1. 🗣 Commented on [#1](https://github.com/KushalMeghani1644/riscv/pull/1#issuecomment-3696854832) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+2. 💪 Opened PR [#1](undefined) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+3. 🗣 Commented on [#283](https://github.com/esp-rs/esp-generate/pull/283#issuecomment-3694112379) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+4. 💪 Opened PR [#283](undefined) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+5. 🗣 Commented on [#382](https://github.com/rust-embedded/riscv/pull/382#issuecomment-3693932152) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+6. ❌ Merged PR [#14628](undefined) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+7. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3691371666) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+8. 🗣 Commented on [#14628](https://github.com/tauri-apps/tauri/pull/14628#issuecomment-3691191420) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+9. 🗣 Commented on [#1](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/1#issuecomment-3682090704) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
+10. 💪 Opened PR [#382](undefined) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
 <!--END_SECTION:activity-->
 
 ## Skills
