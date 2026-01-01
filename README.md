@@ -28,16 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](undefined) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+1. ❌ Closed PR [#4](https://github.com/KushalMeghani1644/riscv/pull/4) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
 2. 🗣 Commented on [#4](https://github.com/KushalMeghani1644/riscv/pull/4#issuecomment-3696957307) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-3. 💪 Opened PR [#4](undefined) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-4. ❌ Merged PR [#3](undefined) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+3. 💪 Opened PR [#4](https://github.com/KushalMeghani1644/riscv/pull/4) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+4. 🎉 Merged PR [#3](https://github.com/KushalMeghani1644/riscv/pull/3) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
 5. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/riscv/pull/3#issuecomment-3696926198) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-6. 💪 Opened PR [#3](undefined) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-7. ❌ Closed PR [#2](undefined) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+6. 💪 Opened PR [#3](https://github.com/KushalMeghani1644/riscv/pull/3) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+7. ❌ Closed PR [#2](https://github.com/KushalMeghani1644/riscv/pull/2) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
 8. 🗣 Commented on [#2](https://github.com/KushalMeghani1644/riscv/pull/2#issuecomment-3696915179) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-9. 💪 Opened PR [#2](undefined) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-10. ❌ Closed PR [#1](undefined) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+9. 💪 Opened PR [#2](https://github.com/KushalMeghani1644/riscv/pull/2) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+10. ❌ Closed PR [#1](https://github.com/KushalMeghani1644/riscv/pull/1) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
 <!--END_SECTION:activity-->
 
 ## Skills
