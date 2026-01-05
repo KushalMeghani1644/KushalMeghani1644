@@ -28,16 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#384](https://github.com/rust-embedded/riscv/pull/384#issuecomment-3708946164) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-2. ❌ Closed PR [#4](https://github.com/KushalMeghani1644/riscv/pull/4) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-3. 🗣 Commented on [#4](https://github.com/KushalMeghani1644/riscv/pull/4#issuecomment-3696957307) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-4. 💪 Opened PR [#4](https://github.com/KushalMeghani1644/riscv/pull/4) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-5. 🎉 Merged PR [#3](https://github.com/KushalMeghani1644/riscv/pull/3) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-6. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/riscv/pull/3#issuecomment-3696926198) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-7. 💪 Opened PR [#3](https://github.com/KushalMeghani1644/riscv/pull/3) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-8. ❌ Closed PR [#2](https://github.com/KushalMeghani1644/riscv/pull/2) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-9. 🗣 Commented on [#2](https://github.com/KushalMeghani1644/riscv/pull/2#issuecomment-3696915179) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
-10. 💪 Opened PR [#2](https://github.com/KushalMeghani1644/riscv/pull/2) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+1. 🗣 Commented on [#384](https://github.com/rust-embedded/riscv/pull/384#issuecomment-3709065918) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+2. 🗣 Commented on [#384](https://github.com/rust-embedded/riscv/pull/384#issuecomment-3708946164) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+3. ❌ Closed PR [#4](https://github.com/KushalMeghani1644/riscv/pull/4) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+4. 🗣 Commented on [#4](https://github.com/KushalMeghani1644/riscv/pull/4#issuecomment-3696957307) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+5. 💪 Opened PR [#4](https://github.com/KushalMeghani1644/riscv/pull/4) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+6. 🎉 Merged PR [#3](https://github.com/KushalMeghani1644/riscv/pull/3) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+7. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/riscv/pull/3#issuecomment-3696926198) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+8. 💪 Opened PR [#3](https://github.com/KushalMeghani1644/riscv/pull/3) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+9. ❌ Closed PR [#2](https://github.com/KushalMeghani1644/riscv/pull/2) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
+10. 🗣 Commented on [#2](https://github.com/KushalMeghani1644/riscv/pull/2#issuecomment-3696915179) in [KushalMeghani1644/riscv](https://github.com/KushalMeghani1644/riscv)
 <!--END_SECTION:activity-->
 
 ## Skills
