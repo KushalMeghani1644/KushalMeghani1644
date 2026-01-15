@@ -28,16 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com/esp-rs/esp-generate/pull/289#issuecomment-3754263022) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-2. 🎉 Merged PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-3. 💪 Opened PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-4. ❌ Closed PR [#283](https://github.com/esp-rs/esp-generate/pull/283) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-5. 🗣 Commented on [#283](https://github.com/esp-rs/esp-generate/pull/283#issuecomment-3728967041) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-6. 🗣 Commented on [#283](https://github.com/esp-rs/esp-generate/pull/283#issuecomment-3728515803) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-7. 🗣 Commented on [#277](https://github.com/esp-rs/esp-generate/issues/277#issuecomment-3724513495) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-8. 🗣 Commented on [#381](https://github.com/rust-embedded/riscv/issues/381#issuecomment-3723169194) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-9. 🗣 Commented on [#382](https://github.com/rust-embedded/riscv/pull/382#issuecomment-3723118418) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-10. 🎉 Merged PR [#382](https://github.com/rust-embedded/riscv/pull/382) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+1. 🗣 Commented on [#289](https://github.com/esp-rs/esp-generate/pull/289#issuecomment-3754384966) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+2. 🗣 Commented on [#289](https://github.com/esp-rs/esp-generate/pull/289#issuecomment-3754263022) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+3. 🎉 Merged PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+4. 💪 Opened PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+5. ❌ Closed PR [#283](https://github.com/esp-rs/esp-generate/pull/283) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+6. 🗣 Commented on [#283](https://github.com/esp-rs/esp-generate/pull/283#issuecomment-3728967041) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+7. 🗣 Commented on [#283](https://github.com/esp-rs/esp-generate/pull/283#issuecomment-3728515803) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+8. 🗣 Commented on [#277](https://github.com/esp-rs/esp-generate/issues/277#issuecomment-3724513495) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+9. 🗣 Commented on [#381](https://github.com/rust-embedded/riscv/issues/381#issuecomment-3723169194) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+10. 🗣 Commented on [#382](https://github.com/rust-embedded/riscv/pull/382#issuecomment-3723118418) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
 <!--END_SECTION:activity-->
 
 ## Skills
