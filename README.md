@@ -28,16 +28,16 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3#issuecomment-3790748863) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
-2. 💪 Opened PR [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
-3. 💪 Opened PR [#4789](https://github.com/esp-rs/esp-hal/pull/4789) in [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal)
-4. 🗣 Commented on [#289](https://github.com/esp-rs/esp-generate/pull/289#issuecomment-3754384966) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-5. 🗣 Commented on [#289](https://github.com/esp-rs/esp-generate/pull/289#issuecomment-3754263022) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-6. 🎉 Merged PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-7. 💪 Opened PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-8. ❌ Closed PR [#283](https://github.com/esp-rs/esp-generate/pull/283) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-9. 🗣 Commented on [#283](https://github.com/esp-rs/esp-generate/pull/283#issuecomment-3728967041) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-10. 🗣 Commented on [#283](https://github.com/esp-rs/esp-generate/pull/283#issuecomment-3728515803) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+1. 🎉 Merged PR [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
+2. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3#issuecomment-3790825488) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
+3. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3#issuecomment-3790748863) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
+4. 💪 Opened PR [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
+5. 💪 Opened PR [#4789](https://github.com/esp-rs/esp-hal/pull/4789) in [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal)
+6. 🗣 Commented on [#289](https://github.com/esp-rs/esp-generate/pull/289#issuecomment-3754384966) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+7. 🗣 Commented on [#289](https://github.com/esp-rs/esp-generate/pull/289#issuecomment-3754263022) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+8. 🎉 Merged PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+9. 💪 Opened PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+10. ❌ Closed PR [#283](https://github.com/esp-rs/esp-generate/pull/283) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
 <!--END_SECTION:activity-->
 
 ## Skills
