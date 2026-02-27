@@ -28,8 +28,8 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25489](https://github.com/oven-sh/bun/pull/25489#issuecomment-3828631025) in [oven-sh/bun](https://github.com/oven-sh/bun)
-2. 🎉 Merged PR [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
+1. 💪 Opened PR [#391](https://github.com/rust-embedded/riscv/pull/391) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+2. 🗣 Commented on [#25489](https://github.com/oven-sh/bun/pull/25489#issuecomment-3828631025) in [oven-sh/bun](https://github.com/oven-sh/bun)
 3. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3#issuecomment-3790825488) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
 4. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3#issuecomment-3790748863) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
 5. 💪 Opened PR [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
