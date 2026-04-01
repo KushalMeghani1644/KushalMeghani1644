@@ -28,9 +28,9 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#391](https://github.com/rust-embedded/riscv/pull/391#issuecomment-4096499913) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-2. 💪 Opened PR [#391](https://github.com/rust-embedded/riscv/pull/391) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-3. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3#issuecomment-3790825488) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
+1. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4168552929) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+2. 💪 Opened PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+3. 🗣 Commented on [#391](https://github.com/rust-embedded/riscv/pull/391#issuecomment-4096499913) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
 4. 🗣 Commented on [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3#issuecomment-3790748863) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
 5. 💪 Opened PR [#3](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io/pull/3) in [KushalMeghani1644/kushalmeghani1644.github.io](https://github.com/KushalMeghani1644/kushalmeghani1644.github.io)
 6. 💪 Opened PR [#4789](https://github.com/esp-rs/esp-hal/pull/4789) in [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal)
