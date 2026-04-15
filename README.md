@@ -28,14 +28,14 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4242913522) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-2. 🎉 Merged PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-3. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4181545656) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-4. 🗣 Commented on [#25489](https://github.com/oven-sh/bun/pull/25489#issuecomment-4171276230) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4168552929) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-6. 💪 Opened PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-7. 🗣 Commented on [#391](https://github.com/rust-embedded/riscv/pull/391#issuecomment-4096499913) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-8. 🗣 Commented on [#289](https://github.com/esp-rs/esp-generate/pull/289#issuecomment-3754263022) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+1. 🎉 Merged PR [#391](https://github.com/rust-embedded/riscv/pull/391) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+2. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4242913522) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+3. 🎉 Merged PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+4. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4181545656) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+5. 🗣 Commented on [#25489](https://github.com/oven-sh/bun/pull/25489#issuecomment-4171276230) in [oven-sh/bun](https://github.com/oven-sh/bun)
+6. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4168552929) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+7. 💪 Opened PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+8. 🗣 Commented on [#391](https://github.com/rust-embedded/riscv/pull/391#issuecomment-4096499913) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
 9. 🎉 Merged PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
 10. 💪 Opened PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
 <!--END_SECTION:activity-->
