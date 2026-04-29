@@ -6,22 +6,11 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ---
 
 ## About Me
+
 - Passionate about **Rust**, **systems programming**, and **hardware security research**.  
-- Skilled in **UEFI bootloaders**, **memory management**, **RowHammer detection**, and **bare-metal development**.  
+- Skilled in **UEFI bootloaders**, and **bare-metal development**.  
 - Advocate for **memory safety**, **reliability**, and **low-level performance optimization**.  
 - Open-source contributor with a focus on **practical, real-world systems tools**.
-
----
-
-## Current Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **RustyBoot** | A **UEFI bootloader** written in Rust with advanced boot features. | [GitHub](https://github.com/KushalMeghani1644/RustyBoot) |
-| **NPU-rs** | A NPU driver (simulation) for 20TOPS NPU IN RISC boards | [Github](https://github.com/KushalMeghani1644/NPU-rs) |
-| **RustyBoot-RISCV** | A **minimalist RISC-V bootloader** written in Rust, with UART support and ELF kernel loading. | [GitHub](https://github.com/KushalMeghani1644/RustyBoot-RISCV) |
-| **RustBerry-PI** | A raspberry pi inspired virtual hardware board in Rust. | [GitHub](https://github.com/KushalMeghani1644/RustBerry-PI) |
-| **Website** | Get to know more about me | [Website](https://kushalmeghani1644-github-io.vercel.app) |
 
 ---
 
@@ -42,29 +31,9 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 
 ## Skills
 - **Languages:** Rust (primary), C, C++
-- **Learning:** Zig
 - **Low-level Expertise:** UEFI, BIOS, kernel modules, memory management  
-- **Tools & Platforms:** Git, Cargo, Linux (Fedora, and Gentoo VM), QEMU, Virtualization  
-- **Security & Research:** RowHammer detection, hardware vulnerability analysis
-- Contributor to [RISCV](https://github.com/rust-embedded/riscv), and [Tauri](https://github.com/tauri-apps/tauri)
-- **Gentoo Linux** user & OS tinkerer, compiled an OS from source.
-- Mastering **VIM** and **Neovim**
-
----
-
-## Featured Work
-- **RustyBoot:** Memory-safe, high-performance UEFI and RISCV bootloader.  
-- **Rusty-Checker:** RowHammer vulnerability detection tool (Rust).  
-- **NPU-rs:** A Simulator NPU driver for RISCV boards!
-
----
-
-## Open Source Contributions
-- Actively maintaining **Rusty-Suite** across GitHub, GitLab, and crates.io.  
-- Focused on **memory safety, system reliability, and bare-metal tooling**.  
-- Projects are **GPLv3 licensed** and widely accessible for collaboration.
-
----
+- **Tools & Platforms:** Git, Cargo, Linux (Fedora), QEMU, Virtualization  
+- Mastering **Neovim**
 
 ## Contact Me
 - Email: [kushalmeghani108@gmail.com](mailto:kushalmeghani108@gmail.com)  
