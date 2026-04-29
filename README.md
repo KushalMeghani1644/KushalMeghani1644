@@ -17,15 +17,15 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 ## Current Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#397](https://github.com/rust-embedded/riscv/issues/397#issuecomment-4342520735) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-2. 🎉 Merged PR [#391](https://github.com/rust-embedded/riscv/pull/391) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-3. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4242913522) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-4. 🎉 Merged PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-5. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4181545656) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-6. 🗣 Commented on [#25489](https://github.com/oven-sh/bun/pull/25489#issuecomment-4171276230) in [oven-sh/bun](https://github.com/oven-sh/bun)
-7. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4168552929) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-8. 💪 Opened PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-9. 🎉 Merged PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+1. 🗣 Commented on [#399](https://github.com/rust-embedded/riscv/pull/399#issuecomment-4343093504) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+2. 🗣 Commented on [#397](https://github.com/rust-embedded/riscv/issues/397#issuecomment-4342520735) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+3. 🎉 Merged PR [#391](https://github.com/rust-embedded/riscv/pull/391) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
+4. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4242913522) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+5. 🎉 Merged PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+6. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4181545656) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+7. 🗣 Commented on [#25489](https://github.com/oven-sh/bun/pull/25489#issuecomment-4171276230) in [oven-sh/bun](https://github.com/oven-sh/bun)
+8. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4168552929) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+9. 💪 Opened PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
 10. 💪 Opened PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
 <!--END_SECTION:activity-->
 
