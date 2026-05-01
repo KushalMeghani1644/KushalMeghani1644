@@ -22,7 +22,7 @@ Along with that I am also a Linux nerd always experimenting with new tools and a
 
 ## Contact Me
 - Email: [kushalmeghani108@gmail.com](mailto:kushalmeghani108@gmail.com)  
-- Website: [rusty-suite.tech](https://rusty-suite.tech)  
+- Website: [website](https://kushalmeghani1644-github-io.vercel.app)  
 - GitHub: [KushalMeghani1644](https://github.com/KushalMeghani1644)  
 - GitLab: [KushalMeghani1644](https://gitlab.com/KushalMeghani1644)
 - Dev: [KushalMeghani1644](https://dev.to/kushalmeghani1644)
