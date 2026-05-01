@@ -7,33 +7,18 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 
 ## About Me
 
-- Passionate about **Rust**, **systems programming**, and **hardware security research**.  
-- Skilled in **UEFI bootloaders**, and **bare-metal development**.  
-- Advocate for **memory safety**, **reliability**, and **low-level performance optimization**.  
-- Open-source contributor with a focus on **practical, real-world systems tools**.
+I love coding in Rust, and making bare-metal projects! I am a AI nerd who loves deep-diving into modern tools. 
+Along with that I am also a Linux nerd always experimenting with new tools and am still learning deep linux internals.
 
 ---
 
-## Current Activities
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#399](https://github.com/rust-embedded/riscv/pull/399#issuecomment-4343093504) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-2. 🗣 Commented on [#397](https://github.com/rust-embedded/riscv/issues/397#issuecomment-4342520735) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-3. 🎉 Merged PR [#391](https://github.com/rust-embedded/riscv/pull/391) in [rust-embedded/riscv](https://github.com/rust-embedded/riscv)
-4. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4242913522) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-5. 🎉 Merged PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-6. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4181545656) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-7. 🗣 Commented on [#25489](https://github.com/oven-sh/bun/pull/25489#issuecomment-4171276230) in [oven-sh/bun](https://github.com/oven-sh/bun)
-8. 🗣 Commented on [#312](https://github.com/esp-rs/esp-generate/pull/312#issuecomment-4168552929) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-9. 💪 Opened PR [#312](https://github.com/esp-rs/esp-generate/pull/312) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-10. 💪 Opened PR [#289](https://github.com/esp-rs/esp-generate/pull/289) in [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
-<!--END_SECTION:activity-->
-
 ## Skills
-- **Languages:** Rust (primary), C, C++
+- **Languages:** Rust (primary)
 - **Low-level Expertise:** UEFI, BIOS, kernel modules, memory management  
 - **Tools & Platforms:** Git, Cargo, Linux (Fedora), QEMU, Virtualization  
 - Mastering **Neovim**
+
+---
 
 ## Contact Me
 - Email: [kushalmeghani108@gmail.com](mailto:kushalmeghani108@gmail.com)  
@@ -43,6 +28,7 @@ I build **memory-safe tools**, UEFI bootloaders, and security research utilities
 - Dev: [KushalMeghani1644](https://dev.to/kushalmeghani1644)
 - Hashnode: [KushalMeghani](https://hashnode.com/@kushalmeghani)
 - LeetCode: [kushalMeghani1644](https://leetcode.com/u/KushalMeghani1644/)
+- X: [kushal1644](https://x.com/Kushal1644)
 
 ---
 
