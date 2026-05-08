@@ -1,6 +1,6 @@
 # Kushal Meghani
 
-I love coding in Rust, and making bare-metal projects! I am a AI nerd who loves deep-diving into modern tools. 
+I love making bare-metal projects! I am a AI nerd who loves deep-diving into modern tools. 
 Along with that I am also a Linux nerd always experimenting with new tools and am still learning deep linux internals.
 
 ---
@@ -28,6 +28,3 @@ Along with that I am also a Linux nerd always experimenting with new tools and a
 - X: [kushal1644](https://x.com/Kushal1644)
 
 ---
-
-> "I turn low-level complexity into reliable, safe, and efficient Rust solutions."  
-> — Kushal Meghani
