@@ -19,7 +19,7 @@ Along with that I am also a Linux nerd always experimenting with new tools and a
 
 - Email (Primary): [kushalmeghani108@gmail.com](mailto:kushalmeghani108@gmail.com)
 - Proton mail: [kushalmeghani1644@proton.me](mailto:kushalmeghani1644@proton.me)
-- Website: [https://kushalmeghani1644-github-io.vercel.app](https://kushalmeghani1644-github-io.vercel.app)  
+- Website: [https://kushalmeghani1644.vercel.app](https://kushalmeghani1644.vercel.app)  
 - GitHub: [KushalMeghani1644](https://github.com/KushalMeghani1644)  
 - GitLab: [KushalMeghani1644](https://gitlab.com/KushalMeghani1644)
 - Dev: [KushalMeghani1644](https://dev.to/kushalmeghani1644)
