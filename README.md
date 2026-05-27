@@ -1,12 +1,12 @@
 # Kushal Meghani
 
-I love making bare-metal projects! I am a AI nerd who loves deep-diving into modern tools. 
-Along with that I am also a Linux nerd always experimenting with new tools and am still learning deep linux internals.
+Building things, maintaining tools, and contributing to open-source repos!
 
 ---
 
 ## Skills
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
